@@ -5,4 +5,5 @@ Skeleton code for the ColorStack Sprout Fall '21 pod project. PodSpace is a priv
 ## Collaborators
 
 Miayunique South / CS & MatSci @ JHU 2023
+
 Lily Madojemu / AMS & HCI @ CMU 2024
